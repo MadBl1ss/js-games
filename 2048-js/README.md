@@ -1,4 +1,5 @@
 # 2048 Game
+![img](./demo.png)
 
 ### To-do list
 
